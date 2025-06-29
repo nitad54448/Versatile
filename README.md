@@ -1,6 +1,6 @@
 # Versatile 2
 
-VERSATILE 2 is a computer program designed for the evaluation of nonisothermal kinetic parameters by processing thermogravimetric data. It is described in an old paper: N. Dragoe and E. Segal, Thermochimica Acta, 1991, 12ç-134.
+VERSATILE 2 is a computer program designed for the evaluation of nonisothermal kinetic parameters by processing thermogravimetric data. It is described in an old paper: N. Dragoe and E. Segal, Thermochimica Acta, 1991, 129-134.
 The core of its methodology is the optimization of kinetic parameter values through the least squares method. The optimal values are identified as those corresponding to the maximum absolute value of the correlation coefficient from a linear regression.
 
 ## Key Features
