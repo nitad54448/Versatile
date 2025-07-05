@@ -6,21 +6,14 @@ The core of its methodology is the optimization of kinetic parameter values thro
 ## Key Features
 
 **Calculation Methods**: The program can evaluate nonisothermal kinetic parameters using nine different methods:
-    * Kissinger.
-    
-    * Freeman-Carroll
-    
-    * Coats-Redfern
-    
-    * Flynn-Wall for $\alpha=$ const.
-    
-    * Flynn-Wall for $\beta=$ const.
-    
-    * Flynn-Wall for $T=$ const.
-    
-    * Reich method.
-    
-    * Doyle method.
-    
-    * A modified Coats-Redfern method.
+
+* Kissinger.
+* Freeman-Carroll
+* Coats-Redfern
+* Flynn-Wall for $\alpha=$ const.
+* Flynn-Wall for $\beta=$ const.
+* Flynn-Wall for $T=$ const. 
+* Reich method.
+* Doyle method.
+* A modified Coats-Redfern method.
 
