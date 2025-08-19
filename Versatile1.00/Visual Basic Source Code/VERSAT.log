@@ -1,0 +1,14 @@
+Line 19: Class RichtextLib.RichTextBox of control richtxtlog was not a loaded control class.
+Line 52: Class MSComDlg.CommonDialog of control comdialog1 was not a loaded control class.
+Line 26: The property name _Version in richtxtlog is invalid.
+Line 27: The property name _ExtentX in richtxtlog is invalid.
+Line 28: The property name _ExtentY in richtxtlog is invalid.
+Line 29: The property name _StockProps in richtxtlog is invalid.
+Line 41: The property name ScrollBars in richtxtlog is invalid.
+Line 42: The property name TextRTF in richtxtlog is invalid.
+Line 44: The property name RightMargin in richtxtlog is invalid.
+Line 55: The property name _Version in comdialog1 is invalid.
+Line 56: The property name _ExtentX in comdialog1 is invalid.
+Line 57: The property name _ExtentY in comdialog1 is invalid.
+Line 58: The property name _StockProps in comdialog1 is invalid.
+Line 59: The property name CancelError in comdialog1 is invalid.

@@ -1,0 +1,44 @@
+[OPTIONS]
+errorlog=versat.err
+title=Versatile 1.00 - Help
+compress=false
+warning=3
+
+[FILES]
+versat10.rtf
+
+[WINDOWS]
+Main="Versatile 1.00 - Help", (0,0,750,1023),,,(192,192,192)
+
+[MAP]
+form_about  	6000
+form_dataeditor 2000
+dataeditor_menufile  2101
+dataeditor_menuedit  2201
+dataeditor_tabdialog 2010
+dataeditor_datagrid  2020
+dataeditor_experimentname  2030
+dataeditor_estimatederror  2040
+form_import   5000
+import_addvalues   5010
+import_setscale   5020
+form_graphics   3000
+graphics_graphics   3101
+graphics_edit   3201
+graphics_view   3301
+form_maindisplay   1000
+mainmenu_file  1101
+mainmenu_data   1201
+mainmenu_results   1301
+mainmenu_compute   1401
+mainmenu_help  1501
+form_simulation   4000
+simulation_n   4020
+simulation_m   4030
+simulation_exponential   4040
+simulation_activation  4050
+simulation_reactionrate 4060
+simulation_startingtemp   4070
+simulation_endingtemp   4080
+simulation_pdexterms   4090
+simulation_slider   4100
